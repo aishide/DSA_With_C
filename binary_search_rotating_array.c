@@ -7,8 +7,6 @@ Rotated Array : [4, 5, 6, 7, 0, 1, 2 , 3]
 
 //as the complexity should be in log so divide and conquere and we will use binary search 
 
-
-
 #include <stdio.h>
 
 int search(const int arr[], int size, int target) {
