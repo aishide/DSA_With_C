@@ -9,7 +9,7 @@ int main() {
 //Strings are represented in the form of character array in c 
 //anything inside  " " the compiler will treat it as a string constant 
 
-    char str[10] = "Hello\0";
+    char str[10] = "Hello";
     printf("%s\n\n", str);
     
 // in the end we put \0 which denotes the end of the string 
