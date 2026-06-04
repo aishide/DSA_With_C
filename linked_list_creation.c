@@ -24,6 +24,7 @@ Dynamic memory allocation -> creation of memory at runtime using malloc() and fr
 //AISHI DE 
 
 #include <stdio.h>
+#include <stdlib.h>
 
 struct Node{
     int data;
