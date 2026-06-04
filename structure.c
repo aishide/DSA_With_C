@@ -61,7 +61,7 @@ int main() {
     printf("Rollno of student 5 : %d\n", s5.rollno );
     printf("Marks of student 5 : %.2f\n\n", s5.marks);
     
-    //s1 is variable , type is struct studnet 
+    //s1 is variable , type is struct student 
     
     return 0;
 }
