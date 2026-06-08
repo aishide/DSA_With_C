@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//AISHI DE
+
 struct Node { 
     int data;
     struct Node *next;
