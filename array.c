@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main () {
 
-
+//An array in C is a fixed-size, sequential collection of elements of the same data type stored in contiguous (adjacent) memory locations. Instead of declaring separate variables for each value, an array allows you to store multiple values under a single variable name and access them using an index.
     //aishi de
     
     int arr[5];
